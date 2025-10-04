@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: movie-info-env
+  namespace: video-streaming
+data:
+  DB_URL: "jdbc:postgresql://postgres:5432/video-streaming"
+  DB_USERNAME: admin
+  KAFKA_BROKER: my-cluster-kafka-bootstrap.kafka.svc.cluster.local:9092
+  IMDB_API_KEY: "your_imdb_api_key_here"

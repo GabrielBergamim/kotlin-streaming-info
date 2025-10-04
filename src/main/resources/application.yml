@@ -1,0 +1,82 @@
+spring:
+  application:
+    name: movie-info
+  kafka:
+    bootstrap-servers: ${KAFKA_BROKER}
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+      properties:
+        spring.json.add.type.headers: false
+    consumer:
+      auto-offset-reset: earliest
+      enable-auto-commit: false
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      properties:
+        spring:
+          json:
+            trusted:
+              packages: '*'
+            use:
+              type:
+                headers: false
+            value:
+              default:
+                type: gab.streaming.movie_info.infra.dto.MovieMessage
+      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+    listener:
+      ack-mode: manual
+  datasource:
+    url: ${DB_URL}
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+feign:
+  circuitbreaker:
+    enabled: true
+  okhttp:
+    enabled: true
+  httpclient:
+    enabled: false
+  client:
+    config:
+      imdbFeignClient:
+        connectTimeout: 1500
+        readTimeout: 2000
+        loggerLevel: FULL
+
+resilience4j:
+  circuitbreaker:
+    instances:
+      imdbFeignClient:
+        slidingWindowType: COUNT_BASED
+        slidingWindowSize: 4
+        failureRateThreshold: 50
+        minimumNumberOfCalls: 2
+        waitDurationInOpenState: 30s
+        permittedNumberOfCallsInHalfOpenState: 2
+  bulkhead:
+    instances:
+      imdbFeignClient:
+        maxConcurrentCalls: 10
+        maxWaitDuration: 0
+  retry:
+    instances:
+      imdbFeignClient:
+        maxAttempts: 3
+        waitDuration: 1000ms
+        retryExceptions:
+          - java.io.IOException
+          - feign.RetryableException
+
+imdb:
+  api:
+    url: https://imdb.iamidiotareyoutoo.com
