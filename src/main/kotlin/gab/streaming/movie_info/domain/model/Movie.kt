@@ -68,7 +68,7 @@ data class MovieInfo(
     val description: String,
     val rating: Double,
     val genre: String,
-    val director: String,
+    val director: String?,
     val datePublished: LocalDate,
     val durationMinutes: Duration,
 )

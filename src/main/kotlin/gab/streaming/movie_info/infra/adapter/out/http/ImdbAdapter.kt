@@ -28,7 +28,7 @@ class ImdbAdapter(val client: ImdbFeignClient) : SearchMovieInfo {
                 return MovieInfo(
                     description = movie.short.description,
                     genre = movie.short.genre.joinToString(", "),
-                    director = movie.short.director.joinToString(", ") { director -> director.name },
+                    director = movie.short.director?.joinToString(", ") { director -> director.name },
                     posterUrl = movie.short.image,
                     rating = movie.short.aggregateRating.ratingValue,
                     datePublished = LocalDate.parse(movie.short.datePublished),

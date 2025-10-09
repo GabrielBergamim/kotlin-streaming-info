@@ -36,7 +36,7 @@ data class MovieDetailDto(
     val aggregateRating: AggregateRatingDto,
     val genre: List<String>,
     val datePublished: String,
-    val director: List<DirectorDto>,
+    val director: List<DirectorDto>?,
     val duration: String
 )
 
