@@ -44,7 +44,7 @@ class ImdbAdapter(val client: ImdbFeignClient) : SearchMovieInfo {
     }
 
     private fun findMovieInfo(movies: List<MovieDescriptionDto>, name: String): MovieDescriptionDto? {
-        return movies.find { it.title.trim() == name.trim() }
+        return movies.find { it.title.trim().equals(name.trim(), ignoreCase = true) }
     }
 
     fun onFail(title: String, ex: Exception): MovieInfo? {
