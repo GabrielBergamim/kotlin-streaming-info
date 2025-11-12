@@ -40,23 +40,17 @@ services:
     ports:
       - "5432:5432"
 
-  movie-info:
-    image: movie-info:latest
-    container_name: movie-info
-    build:
-      context: .
-      dockerfile: Dockerfile
-    environment:
-      - KAFKA_BROKER=kafka:9092
-      - DB_URL=jdbc:postgresql://postgres:5432/movie-streaming
-      - DB_USERNAME=admin
-      - DB_PASSWORD=admin
-      - IMDB_API_KEY=your_imdb_api_key_here
+  wiremock:
+    image: wiremock/wiremock:3.13.1
+    container_name: wiremock
     ports:
-      - "8080:8080"
-    depends_on:
-      - kafka
-      - postgres
+      - "9000:8080"
+      - "8443:8443"
+    volumes:
+      - ./config/wiremock/mappings:/home/wiremock/mappings
+      - ./config/wiremock/__files:/home/wiremock/__files
+    command: ["--verbose"]
+
 volumes:
   postgres_data:
     driver: local

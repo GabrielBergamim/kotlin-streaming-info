@@ -1,0 +1,3793 @@
+{
+  "ok": true,
+  "error_code": 200,
+  "description": "",
+  "short": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt26470109/",
+    "name": "Oddity",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWU5Yjc0N2MtZjhlYS00MTM3LWI5YWUtZDg5MzcxZjEyZWJmXkEyXkFqcGc@._V1_.jpg",
+    "description": "A psychic medium attempts to uncover the truth behind her sister&apos;s murder at the site of the crime.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt26470109/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Sleepin_Dragon"
+      },
+      "dateCreated": "2024-09-13",
+      "inLanguage": "English",
+      "name": "An unsettling horror.",
+      "reviewBody": "Ted and Dani Timmins have recently purchased a new house. One night, whilst Ted is at work, Dani receives a visitor at the front door, Olin Boole, who claims someone&apos;s in her house, that night Dani is killed. Darcy, Dani&apos;s twin aims to learn the truth.\n\nIf ever a film was given the perfect title, it&apos;s this one, it verges on art house, it&apos;s very much an avant garde, slightly quirky horror, but trust me it works.\n\nI wasn&apos;t sure which way it was going to go, but it opens up well, and offers a few surprises along the way, delivering some unsettling moments, that scene with the wooden man is especially good.\n\nIf I had one little criticism, I think they underdid the lighting a little, a few scenes are somewhat challenging to make out.\n\nIt does feel a little rough around the edges at times, but I think that is part of the charm, maybe some of the acting isn&apos;t great at all times, but again that fits the film.\n\nOverall, I&apos;d definitely recommend.\n\n7/10.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 7
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 53272,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 6.7
+    },
+    "contentRating": "R",
+    "genre": [
+      "Horror",
+      "Thriller"
+    ],
+    "datePublished": "2024-07-19",
+    "keywords": "ghost,irish horror,tent,old dark house,murder of sister",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "Official Trailer",
+      "embedUrl": "https://www.imdb.com/video/vi3469526553/",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BODA1NmEzNDEtZjk3ZS00N2NhLWI5MjUtMjBmZDk3ZWFkYzAxXkEyXkFqcGdeQXNvbG5vbXM@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODA1NmEzNDEtZjk3ZS00N2NhLWI5MjUtMjBmZDk3ZWFkYzAxXkEyXkFqcGdeQXNvbG5vbXM@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi3469526553/",
+      "description": "Uncovering the truth behind sister&apos;s death with the help of wooden mannequin.",
+      "duration": "PT1M56S",
+      "uploadDate": "2024-06-05T17:14:30.055Z"
+    },
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0991236/"
+      }
+    ],
+    "duration": "PT1H38M"
+  },
+  "imdbId": "tt26470109",
+  "top": {
+    "id": "tt26470109",
+    "productionStatus": {
+      "currentProductionStage": {
+        "id": "released",
+        "text": "Released",
+        "__typename": "ProductionStage"
+      },
+      "productionStatusHistory": [
+        {
+          "status": {
+            "id": "post_production",
+            "text": "Post-production",
+            "__typename": "ProductionStatus"
+          },
+          "__typename": "ProductionStatusHistory"
+        },
+        {
+          "status": {
+            "id": "completed",
+            "text": "Completed",
+            "__typename": "ProductionStatus"
+          },
+          "__typename": "ProductionStatusHistory"
+        },
+        {
+          "status": {
+            "id": "released",
+            "text": "Released",
+            "__typename": "ProductionStatus"
+          },
+          "__typename": "ProductionStatusHistory"
+        }
+      ],
+      "restriction": null,
+      "__typename": "ProductionStatusDetails"
+    },
+    "externalLinks": {
+      "total": 157,
+      "__typename": "ExternalLinkConnection"
+    },
+    "metacritic": {
+      "metascore": {
+        "score": 78,
+        "__typename": "Metascore"
+      },
+      "__typename": "Metacritic"
+    },
+    "keywords": {
+      "total": 129,
+      "edges": [
+        {
+          "node": {
+            "text": "ghost",
+            "__typename": "TitleKeyword"
+          },
+          "__typename": "TitleKeywordEdge"
+        },
+        {
+          "node": {
+            "text": "irish horror",
+            "__typename": "TitleKeyword"
+          },
+          "__typename": "TitleKeywordEdge"
+        },
+        {
+          "node": {
+            "text": "tent",
+            "__typename": "TitleKeyword"
+          },
+          "__typename": "TitleKeywordEdge"
+        },
+        {
+          "node": {
+            "text": "old dark house",
+            "__typename": "TitleKeyword"
+          },
+          "__typename": "TitleKeywordEdge"
+        },
+        {
+          "node": {
+            "text": "murder of sister",
+            "__typename": "TitleKeyword"
+          },
+          "__typename": "TitleKeywordEdge"
+        }
+      ],
+      "__typename": "TitleKeywordConnection"
+    },
+    "credits": {
+      "total": 169,
+      "__typename": "CreditConnection"
+    },
+    "engagementStatistics": {
+      "watchlistStatistics": {
+        "displayableCount": {
+          "text": "Added by 81.5K users",
+          "__typename": "LocalizedDisplayableCount"
+        },
+        "__typename": "WatchlistStatistics"
+      },
+      "__typename": "EngagementStatistics"
+    },
+    "titleText": {
+      "text": "Oddity",
+      "__typename": "TitleText"
+    },
+    "titleType": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleTypeProperty"
+      },
+      "text": "Movie",
+      "id": "movie",
+      "isSeries": false,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "movie",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "originalTitleText": {
+      "text": "Oddity",
+      "__typename": "TitleText"
+    },
+    "certificate": {
+      "rating": "R",
+      "__typename": "Certificate"
+    },
+    "releaseYear": {
+      "year": 2024,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 19,
+      "month": 7,
+      "year": 2024,
+      "country": {
+        "text": "United States",
+        "__typename": "LocalizedDisplayableCountry"
+      },
+      "__typename": "ReleaseDate"
+    },
+    "runtime": {
+      "seconds": 5880,
+      "displayableProperty": {
+        "value": {
+          "plainText": "1h 38m",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleRuntimeProperty"
+      },
+      "__typename": "Runtime"
+    },
+    "canRate": {
+      "isRatable": true,
+      "__typename": "CanRate"
+    },
+    "ratingsSummary": {
+      "aggregateRating": 6.7,
+      "voteCount": 53272,
+      "__typename": "RatingsSummary"
+    },
+    "meterRanking": {
+      "currentRank": 1274,
+      "rankChange": {
+        "changeDirection": "DOWN",
+        "difference": 749,
+        "__typename": "MeterRankChange"
+      },
+      "__typename": "TitleMeterRanking"
+    },
+    "series": null,
+    "isAdult": false,
+    "genres": {
+      "genres": [
+        {
+          "text": "Horror",
+          "id": "Horror",
+          "__typename": "Genre"
+        },
+        {
+          "text": "Thriller",
+          "id": "Thriller",
+          "__typename": "Genre"
+        }
+      ],
+      "__typename": "Genres"
+    },
+    "interests": {
+      "edges": [
+        {
+          "node": {
+            "id": "in0000110",
+            "primaryText": {
+              "text": "Folk Horror",
+              "__typename": "InterestText"
+            },
+            "__typename": "Interest"
+          },
+          "__typename": "InterestEdge"
+        },
+        {
+          "node": {
+            "id": "in0000117",
+            "primaryText": {
+              "text": "Supernatural Horror",
+              "__typename": "InterestText"
+            },
+            "__typename": "Interest"
+          },
+          "__typename": "InterestEdge"
+        },
+        {
+          "node": {
+            "id": "in0000112",
+            "primaryText": {
+              "text": "Horror",
+              "__typename": "InterestText"
+            },
+            "__typename": "Interest"
+          },
+          "__typename": "InterestEdge"
+        },
+        {
+          "node": {
+            "id": "in0000186",
+            "primaryText": {
+              "text": "Thriller",
+              "__typename": "InterestText"
+            },
+            "__typename": "Interest"
+          },
+          "__typename": "InterestEdge"
+        }
+      ],
+      "__typename": "InterestConnection"
+    },
+    "plot": {
+      "plotText": {
+        "plainText": "A psychic medium attempts to uncover the truth behind her sister's murder at the site of the crime.",
+        "__typename": "Markdown"
+      },
+      "language": {
+        "id": "en-US",
+        "__typename": "DisplayableLanguage"
+      },
+      "__typename": "Plot"
+    },
+    "plotContributionLink": {
+      "url": "https://contribute.imdb.com/updates?update=tt26470109:outlines.add.1.locale~en-US",
+      "__typename": "ContributionLink"
+    },
+    "primaryImage": {
+      "id": "rm3169480705",
+      "width": 691,
+      "height": 1024,
+      "url": "https://m.media-amazon.com/images/M/MV5BMWU5Yjc0N2MtZjhlYS00MTM3LWI5YWUtZDg5MzcxZjEyZWJmXkEyXkFqcGc@._V1_.jpg",
+      "caption": {
+        "plainText": "Carolyn Bracken in Oddity (2024)",
+        "__typename": "Markdown"
+      },
+      "__typename": "Image"
+    },
+    "images": {
+      "total": 118,
+      "edges": [
+        {
+          "node": {
+            "id": "rm3136441345",
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        }
+      ],
+      "__typename": "ImageConnection"
+    },
+    "videos": {
+      "total": 2,
+      "__typename": "TitleRelatedVideosConnection"
+    },
+    "primaryVideos": {
+      "edges": [
+        {
+          "node": {
+            "id": "vi3469526553",
+            "createdDate": "2024-06-05T17:14:30.055Z",
+            "isMature": false,
+            "runtime": {
+              "value": 116,
+              "__typename": "VideoRuntime"
+            },
+            "name": {
+              "value": "Official Trailer",
+              "language": "en",
+              "__typename": "LocalizedString"
+            },
+            "description": {
+              "value": "Uncovering the truth behind sister's death with the help of wooden mannequin.",
+              "language": "en",
+              "__typename": "LocalizedString"
+            },
+            "timedTextTracks": [],
+            "recommendedTimedTextTrack": null,
+            "thumbnail": {
+              "url": "https://m.media-amazon.com/images/M/MV5BODA1NmEzNDEtZjk3ZS00N2NhLWI5MjUtMjBmZDk3ZWFkYzAxXkEyXkFqcGdeQXNvbG5vbXM@._V1_.jpg",
+              "height": 1080,
+              "width": 1920,
+              "__typename": "Thumbnail"
+            },
+            "primaryTitle": {
+              "id": "tt26470109",
+              "titleText": {
+                "text": "Oddity",
+                "__typename": "TitleText"
+              },
+              "originalTitleText": {
+                "text": "Oddity",
+                "__typename": "TitleText"
+              },
+              "releaseYear": {
+                "year": 2024,
+                "__typename": "YearRange"
+              },
+              "__typename": "Title"
+            },
+            "playbackURLs": [
+              {
+                "displayName": {
+                  "value": "1080p",
+                  "language": "en-US",
+                  "__typename": "LocalizedString"
+                },
+                "videoMimeType": "MP4",
+                "videoDefinition": "DEF_1080p",
+                "url": "https://imdb-video.media-imdb.com/vi3469526553/1434659529640-260ouz-1717607670376.mp4?Expires=1762988544&Signature=TLAAvTk3iJBB~YsXRW0fqLMFrYPXXN73ur3Hr7G5nTSuEtM7c67F2w~RKrX-Y8UIAJwFmZNwGNb8yXHtuMvEClB~6P2K56JbhwcC6c2ICzPHQJJjFMcO2y328PgMJWhOqyDCnefxRFcDPms5gLAd4W3RWCoe1DTMcCP1wUAk0ggP68zte28jSNvzRQdVrUnDyVYqMAHryTexKGXD7Lh1Xm-~1ZRkjPdWnnulubVOxGuw~ldNTwK5pJuS-wfTPVtk72X7nebQleh0HRl4pl~uA7MK1DxyDjtyfyz-hcUyTcSRoiBJ0bv0Ug8FbGZUkn9MCVBTxPcoAFDHCfL5yadY3A__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                "metricDimensions": [
+                  {
+                    "name": "encoder",
+                    "value": "ETS",
+                    "__typename": "MetricDimension"
+                  }
+                ],
+                "__typename": "PlaybackURL"
+              },
+              {
+                "displayName": {
+                  "value": "AUTO",
+                  "language": "en-US",
+                  "__typename": "LocalizedString"
+                },
+                "videoMimeType": "M3U8",
+                "videoDefinition": "DEF_AUTO",
+                "url": "https://imdb-video.media-imdb.com/vi3469526553/hls-1717607670376-master.m3u8?Expires=1762988544&Signature=aucJQtapJDdW8Pmq9bt8X~7OHhedzODigZLA7DRWRQzZuiJYBakMrE1e58eeWsnM-y0-k7auwjTzbpGio0ClVDVQXPzisfZIEjbRwX7--pSp-Bh0ECFBbCmzbyA8~KDnqYNJ2wgOIOkaiCZl8IgHpJIkWfnH7b3xMnvTNl-pwBn13Q1gME6jPM-rjQHp8E6DHouZLNeMhwXplq3tcePZwR81di~JjK3gHZfN~YQmD~WJg9WMmKR6UynwjpZZlbFdvkhBwG1OSGdP5o4ERa9lCp5~MGd1u5KMPEphegXjpZLEWJDuyzULZnTwdJNM0u8uLlKs61od7yg--kps61tGkA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                "metricDimensions": [
+                  {
+                    "name": "encoder",
+                    "value": "ETS",
+                    "__typename": "MetricDimension"
+                  }
+                ],
+                "__typename": "PlaybackURL"
+              },
+              {
+                "displayName": {
+                  "value": "SD",
+                  "language": "en-US",
+                  "__typename": "LocalizedString"
+                },
+                "videoMimeType": "MP4",
+                "videoDefinition": "DEF_SD",
+                "url": "https://imdb-video.media-imdb.com/vi3469526553/1434659454657-dx9ykf-1717607670376.mp4?Expires=1762988544&Signature=mNIWrQk2j7u~~zhpcqjU0TWEMVejIGwq7bhh9sBmnlrMFnvfPOxQvs5L6p7EPki507qD8lgxuHVbLwZbQdiifYPTxEKWfi7d04OE5YiHnle6uEnTioN3VAJMsoClXExXFEQClBzYHnj3JtEmYwOMJtqc5dUJmqkDcncSkJV3q~MfzcPm3ZWE253rqv18XfwY2rp0Zqn~swQfADY3ndCJzYnPvHz6LgfOp0TyYrZhsSk3sb66zU4iren33pIhURmSIR1pXq1Q-G7D4hBDw1g4C87uFNxGqDtsenXahvEb-r7l5-CSs94hsSGVmmiTQTrtZXMjRCjcAnf--JJMqCH1Nw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                "metricDimensions": [
+                  {
+                    "name": "encoder",
+                    "value": "ETS",
+                    "__typename": "MetricDimension"
+                  }
+                ],
+                "__typename": "PlaybackURL"
+              },
+              {
+                "displayName": {
+                  "value": "720p",
+                  "language": "en-US",
+                  "__typename": "LocalizedString"
+                },
+                "videoMimeType": "MP4",
+                "videoDefinition": "DEF_720p",
+                "url": "https://imdb-video.media-imdb.com/vi3469526553/1434659379400-8cjq25-1717607670376.mp4?Expires=1762988544&Signature=lUVgg7a3hu7U~sUutJscZ7o83X9o7sm9jPdMPuXYYXlsvPCe6p0~59Q0pOaoidC7zgImKVV-q1JA3-mEvMke7XznU0KQQTNBPa7lHnrdTjjLcVOiiFHKvKX~tj0zg6zTCphDmoUUbR6v3Wz2js8SmlWdf6spywdvuHpocjeWGEMAZKS~JcR6V4JQXn~50DEiLLjqb2AvaMIaDAF1HE4HcI8F-vb25UJnlVIAKv5Y8nWdY7tUHK35rokGF06PIZm3Ng6FmwidxUyGEW8BTRO8epW~fGm3zFKQ8pV03GsZc1ZQ1-A6l7Afl0gaJfjQgfdS0pEcG0gcMpZEFDouYVPY-g__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                "metricDimensions": [
+                  {
+                    "name": "encoder",
+                    "value": "ETS",
+                    "__typename": "MetricDimension"
+                  }
+                ],
+                "__typename": "PlaybackURL"
+              },
+              {
+                "displayName": {
+                  "value": "480p",
+                  "language": "en-US",
+                  "__typename": "LocalizedString"
+                },
+                "videoMimeType": "MP4",
+                "videoDefinition": "DEF_480p",
+                "url": "https://imdb-video.media-imdb.com/vi3469526553/1434659607842-pgv4ql-1717607670376.mp4?Expires=1762988544&Signature=j7VNnpJUe~Pxc4Ek68of-mvt9onIgHht984coL5GOAwEJwMQsnAbAOqd0ec92kzhZdGu3Hn3M6R0z-DSaGxrQPG9XhBKo8~r3mq7Ynzzr6q2U5jCrrgYTh-WGN9eursHKFdr04SqPCQzaiTGyMkQegWYAz5gg~cdsqdAAClO4WVC4bf6JNkgyrFVzIwTESUmiUaHFuvGWTjEbGdXs~wvDVz-fEFyBl~0ScbCI5kRNjjvIkqvtMspwMAx50nfxV-ogLxHA8TJH3fYN9XYj5rImZJng6lXwKnbCc9QHFY9ItQwIaIhTLTUHh5jSVXCkJJSjNsqwEzCcw7uKLCaWZU1tg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                "metricDimensions": [
+                  {
+                    "name": "encoder",
+                    "value": "ETS",
+                    "__typename": "MetricDimension"
+                  }
+                ],
+                "__typename": "PlaybackURL"
+              }
+            ],
+            "contentType": {
+              "id": "amzn1.imdb.video.contenttype.trailer",
+              "displayName": {
+                "value": "Trailer",
+                "__typename": "LocalizedString"
+              },
+              "__typename": "VideoContentType"
+            },
+            "previewURLs": [
+              {
+                "displayName": {
+                  "value": "AUTO",
+                  "language": "en-US",
+                  "__typename": "LocalizedString"
+                },
+                "videoMimeType": "M3U8",
+                "videoDefinition": "DEF_AUTO",
+                "url": "https://imdb-video.media-imdb.com/vi3469526553/hls-preview-0ee1d5b4-dfc5-4583-9c45-dd2b199f4e0d.m3u8?Expires=1762988544&Signature=hmT~~IKF10Kt9nvNandXN~1haGQtQ8Q0ux8Y~xr-ei6B~-iTWOj1Xi-OAYFDYolxDIGNXlsD7x-DkYktGKbTHcCYOrgKI8lA7Q9Irfy7IdXfaA-dCEA07epEx-RCnJuwG5GKONMVbBoyyk8NTQDnkfuz3QYjUMYrFIKosCtFbK8-zV4ZAN1q9Y7ezhxYfWn6q4PbTzY9YBYanW-lZOCBLV~hKJcKiB4rlMi7m8Z1JW1FQr-rPA7XJQrBjJBww4k-MS5fW0rSfFFx5TMVLwle4FLKGT-Z31gwWhfnhC2p-sjVXeUcfc-DrLxaxHB59U79sOfLsERxgSlxWncrT7QGLw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                "__typename": "PlaybackURL"
+              }
+            ],
+            "__typename": "Video"
+          },
+          "__typename": "VideoEdge"
+        }
+      ],
+      "__typename": "VideoConnection"
+    },
+    "principalCreditsV2": [
+      {
+        "totalCredits": 1,
+        "grouping": {
+          "text": "Director",
+          "groupingId": "amzn1.imdb.concept.name_credit_category.ace5cb4c-8708-4238-9542-04641e7c8171",
+          "__typename": "CreditGrouping"
+        },
+        "credits": [
+          {
+            "name": {
+              "nameText": {
+                "text": "Damian Mc Carthy",
+                "__typename": "NameText"
+              },
+              "id": "nm2163762",
+              "__typename": "Name"
+            },
+            "__typename": "CreditV2"
+          }
+        ],
+        "__typename": "PrincipalCreditsForGrouping"
+      },
+      {
+        "totalCredits": 1,
+        "grouping": {
+          "text": "Writer",
+          "groupingId": "amzn1.imdb.concept.name_credit_category.c84ecaff-add5-4f2e-81db-102a41881fe3",
+          "__typename": "CreditGrouping"
+        },
+        "credits": [
+          {
+            "name": {
+              "nameText": {
+                "text": "Damian Mc Carthy",
+                "__typename": "NameText"
+              },
+              "id": "nm2163762",
+              "__typename": "Name"
+            },
+            "__typename": "CreditV2"
+          }
+        ],
+        "__typename": "PrincipalCreditsForGrouping"
+      },
+      {
+        "totalCredits": 20,
+        "grouping": {
+          "text": "Stars",
+          "groupingId": "amzn1.imdb.concept.name_credit_group.7510356e-fde9-438e-b3ad-0099ba6bc8ce",
+          "__typename": "CreditGrouping"
+        },
+        "credits": [
+          {
+            "name": {
+              "nameText": {
+                "text": "Carolyn Bracken",
+                "__typename": "NameText"
+              },
+              "id": "nm5427601",
+              "__typename": "Name"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "nameText": {
+                "text": "Gwilym Lee",
+                "__typename": "NameText"
+              },
+              "id": "nm3152605",
+              "__typename": "Name"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "nameText": {
+                "text": "Steve Wall",
+                "__typename": "NameText"
+              },
+              "id": "nm2425811",
+              "__typename": "Name"
+            },
+            "__typename": "CreditV2"
+          }
+        ],
+        "__typename": "PrincipalCreditsForGrouping"
+      }
+    ],
+    "reviews": {
+      "total": 320,
+      "__typename": "ReviewsConnection"
+    },
+    "criticReviewsTotal": {
+      "total": 147,
+      "__typename": "ExternalLinkConnection"
+    },
+    "triviaTotal": {
+      "total": 8,
+      "__typename": "TriviaConnection"
+    },
+    "subNavCredits": {
+      "total": 169,
+      "__typename": "CreditConnection"
+    },
+    "subNavReviews": {
+      "total": 320,
+      "__typename": "ReviewsConnection"
+    },
+    "subNavTrivia": {
+      "total": 8,
+      "__typename": "TriviaConnection"
+    },
+    "subNavFaqs": {
+      "total": 0,
+      "__typename": "FaqConnection"
+    },
+    "subNavTopQuestions": {
+      "total": 0,
+      "__typename": "AlexaQuestionConnection"
+    },
+    "titleGenres": {
+      "genres": [
+        {
+          "genre": {
+            "text": "Horror",
+            "__typename": "GenreItem"
+          },
+          "__typename": "TitleGenre"
+        },
+        {
+          "genre": {
+            "text": "Thriller",
+            "__typename": "GenreItem"
+          },
+          "__typename": "TitleGenre"
+        }
+      ],
+      "__typename": "TitleGenres"
+    },
+    "meta": {
+      "canonicalId": "tt26470109",
+      "publicationStatus": "PUBLISHED",
+      "__typename": "TitleMeta"
+    },
+    "castPageTitle": {
+      "edges": [
+        {
+          "node": {
+            "name": {
+              "id": "nm5427601",
+              "nameText": {
+                "text": "Carolyn Bracken",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm3152605",
+              "nameText": {
+                "text": "Gwilym Lee",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm2425811",
+              "nameText": {
+                "text": "Steve Wall",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0740327",
+              "nameText": {
+                "text": "Joe Rooney",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        }
+      ],
+      "__typename": "CreditConnection"
+    },
+    "creatorsPageTitle": [],
+    "directorsPageTitle": [
+      {
+        "credits": [
+          {
+            "name": {
+              "id": "nm2163762",
+              "nameText": {
+                "text": "Damian Mc Carthy",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "Crew"
+          }
+        ],
+        "__typename": "PrincipalCreditsForCategory"
+      }
+    ],
+    "countriesOfOrigin": {
+      "countries": [
+        {
+          "id": "IE",
+          "__typename": "CountryOfOrigin"
+        }
+      ],
+      "__typename": "CountriesOfOrigin"
+    },
+    "production": {
+      "edges": [
+        {
+          "node": {
+            "company": {
+              "id": "co0991236",
+              "companyText": {
+                "text": "Keeper Pictures",
+                "__typename": "CompanyText"
+              },
+              "__typename": "Company"
+            },
+            "__typename": "CompanyCredit"
+          },
+          "__typename": "CompanyCreditEdge"
+        }
+      ],
+      "__typename": "CompanyCreditConnection"
+    },
+    "featuredReviews": {
+      "edges": [
+        {
+          "node": {
+            "author": {
+              "nickName": "Sleepin_Dragon",
+              "__typename": "UserProfile"
+            },
+            "summary": {
+              "originalText": "An unsettling horror.",
+              "__typename": "ReviewSummary"
+            },
+            "text": {
+              "originalText": {
+                "plainText": "Ted and Dani Timmins have recently purchased a new house. One night, whilst Ted is at work, Dani receives a visitor at the front door, Olin Boole, who claims someone's in her house, that night Dani is killed. Darcy, Dani's twin aims to learn the truth.\n\nIf ever a film was given the perfect title, it's this one, it verges on art house, it's very much an avant garde, slightly quirky horror, but trust me it works.\n\nI wasn't sure which way it was going to go, but it opens up well, and offers a few surprises along the way, delivering some unsettling moments, that scene with the wooden man is especially good.\n\nIf I had one little criticism, I think they underdid the lighting a little, a few scenes are somewhat challenging to make out.\n\nIt does feel a little rough around the edges at times, but I think that is part of the charm, maybe some of the acting isn't great at all times, but again that fits the film.\n\nOverall, I'd definitely recommend.\n\n7/10.",
+                "__typename": "Markdown"
+              },
+              "__typename": "ReviewText"
+            },
+            "authorRating": 7,
+            "submissionDate": "2024-09-13",
+            "__typename": "Review"
+          },
+          "__typename": "ReviewEdge"
+        }
+      ],
+      "__typename": "ReviewsConnection"
+    },
+    "castV2": [
+      {
+        "credits": [
+          {
+            "name": {
+              "id": "nm5427601",
+              "nameText": {
+                "text": "Carolyn Bracken",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm3152605",
+              "nameText": {
+                "text": "Gwilym Lee",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm2425811",
+              "nameText": {
+                "text": "Steve Wall",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm0740327",
+              "nameText": {
+                "text": "Joe Rooney",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "CreditV2"
+          }
+        ],
+        "__typename": "PrincipalCreditsForGrouping"
+      }
+    ],
+    "crewV2": [
+      {
+        "grouping": {
+          "groupingId": "amzn1.imdb.concept.name_credit_category.ace5cb4c-8708-4238-9542-04641e7c8171",
+          "__typename": "CreditGrouping"
+        },
+        "credits": [
+          {
+            "name": {
+              "id": "nm2163762",
+              "nameText": {
+                "text": "Damian Mc Carthy",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "CreditV2"
+          }
+        ],
+        "__typename": "PrincipalCreditsForGrouping"
+      }
+    ],
+    "__typename": "Title"
+  },
+  "main": {
+    "id": "tt26470109",
+    "wins": {
+      "total": 8,
+      "__typename": "AwardNominationConnection"
+    },
+    "nominationsExcludeWins": {
+      "total": 11,
+      "__typename": "AwardNominationConnection"
+    },
+    "prestigiousAwardSummary": null,
+    "ratingsSummary": {
+      "topRanking": {
+        "id": "topRated:tt26470109:en_US",
+        "text": {
+          "value": "Top Rated",
+          "__typename": "LocalizedString"
+        },
+        "rank": 3575,
+        "__typename": "TopRanking"
+      },
+      "__typename": "RatingsSummary",
+      "aggregateRating": 6.7,
+      "voteCount": 53272,
+      "notificationText": null
+    },
+    "episodes": null,
+    "videos": {
+      "total": 2,
+      "__typename": "TitleRelatedVideosConnection"
+    },
+    "videoStrip": {
+      "edges": [
+        {
+          "node": {
+            "id": "vi3469526553",
+            "contentType": {
+              "displayName": {
+                "value": "Trailer",
+                "__typename": "LocalizedString"
+              },
+              "__typename": "VideoContentType"
+            },
+            "name": {
+              "value": "Official Trailer",
+              "__typename": "LocalizedString"
+            },
+            "runtime": {
+              "value": 116,
+              "__typename": "VideoRuntime"
+            },
+            "thumbnail": {
+              "height": 1080,
+              "url": "https://m.media-amazon.com/images/M/MV5BODA1NmEzNDEtZjk3ZS00N2NhLWI5MjUtMjBmZDk3ZWFkYzAxXkEyXkFqcGdeQXNvbG5vbXM@._V1_.jpg",
+              "width": 1920,
+              "__typename": "Thumbnail"
+            },
+            "__typename": "Video"
+          },
+          "__typename": "VideoEdge"
+        },
+        {
+          "node": {
+            "id": "vi3486369305",
+            "contentType": {
+              "displayName": {
+                "value": "Trailer",
+                "__typename": "LocalizedString"
+              },
+              "__typename": "VideoContentType"
+            },
+            "name": {
+              "value": "Oddity",
+              "__typename": "LocalizedString"
+            },
+            "runtime": {
+              "value": 116,
+              "__typename": "VideoRuntime"
+            },
+            "thumbnail": {
+              "height": 1080,
+              "url": "https://m.media-amazon.com/images/M/MV5BOGRlNTkzOTQtNDJlZC00MWViLWE5M2ItMzg2MGY4YTc2ODUxXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+              "width": 1920,
+              "__typename": "Thumbnail"
+            },
+            "__typename": "Video"
+          },
+          "__typename": "VideoEdge"
+        }
+      ],
+      "__typename": "VideoConnection"
+    },
+    "titleMainImages": {
+      "total": 118,
+      "edges": [
+        {
+          "node": {
+            "id": "rm3136441345",
+            "url": "https://m.media-amazon.com/images/M/MV5BMDcyY2VhOTAtMjI0Yy00ZGMyLTk3YTMtYzJlZjk3MTMyNjc1XkEyXkFqcGc@._V1_.jpg",
+            "caption": {
+              "plainText": "Caroline Menton in Oddity (2024)",
+              "__typename": "Markdown"
+            },
+            "height": 858,
+            "width": 1525,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm2021955330",
+            "url": "https://m.media-amazon.com/images/M/MV5BYTY2OWM3ZDUtYTU3NC00MGQ5LWIzYzItODU3MGFmODA1YzQ2XkEyXkFqcGc@._V1_.jpg",
+            "caption": {
+              "plainText": "Oddity (2024)",
+              "__typename": "Markdown"
+            },
+            "height": 885,
+            "width": 600,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm2823252481",
+            "url": "https://m.media-amazon.com/images/M/MV5BNzUwMWFkOTMtNTAxYS00M2NhLWE2YzgtYTYzZTJkNWNiNDgxXkEyXkFqcGc@._V1_.jpg",
+            "caption": {
+              "plainText": "Carolyn Bracken in Oddity (2024)",
+              "__typename": "Markdown"
+            },
+            "height": 3000,
+            "width": 2000,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm1021734913",
+            "url": "https://m.media-amazon.com/images/M/MV5BMDUxYjVmMDgtOGNhZC00ZDFiLWI5MjYtZjZkODAxYmM3ZGIyXkEyXkFqcGc@._V1_.jpg",
+            "caption": {
+              "plainText": "Carolyn Bracken in Oddity (2024)",
+              "__typename": "Markdown"
+            },
+            "height": 2048,
+            "width": 1382,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm2938135809",
+            "url": "https://m.media-amazon.com/images/M/MV5BN2UzOTE3OTEtNGY1NC00OTYzLWJhODQtMjVlNjAwNzVmMzk1XkEyXkFqcGc@._V1_.jpg",
+            "caption": {
+              "plainText": "Carolyn Bracken in Oddity (2024)",
+              "__typename": "Markdown"
+            },
+            "height": 632,
+            "width": 1125,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm2804704513",
+            "url": "https://m.media-amazon.com/images/M/MV5BYjk3YTZkMzAtYmRlNS00ZDcwLWFmNTUtZTY1MGM4ZjZhZDQwXkEyXkFqcGc@._V1_.jpg",
+            "caption": {
+              "plainText": "Carolyn Bracken in Oddity (2024)",
+              "__typename": "Markdown"
+            },
+            "height": 606,
+            "width": 1460,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm1496081665",
+            "url": "https://m.media-amazon.com/images/M/MV5BN2YxODJiYmUtMDkwMy00YjQxLTliYjctNjcwMzdkOTAzNGIwXkEyXkFqcGc@._V1_.jpg",
+            "caption": {
+              "plainText": "Carolyn Bracken in Oddity (2024)",
+              "__typename": "Markdown"
+            },
+            "height": 629,
+            "width": 1289,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm1546413313",
+            "url": "https://m.media-amazon.com/images/M/MV5BMWY3YjIxMjctZTVhOS00NjdhLWJiYjMtZDZjZDhjNjFjNTZhXkEyXkFqcGc@._V1_.jpg",
+            "caption": {
+              "plainText": "Oddity (2024)",
+              "__typename": "Markdown"
+            },
+            "height": 604,
+            "width": 1469,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm1563190529",
+            "url": "https://m.media-amazon.com/images/M/MV5BMjY4Yzk5NmUtYTJmMS00Y2Q4LWIzOTctZjczZGUxNDVjNTU5XkEyXkFqcGc@._V1_.jpg",
+            "caption": {
+              "plainText": "Caroline Menton in Oddity (2024)",
+              "__typename": "Markdown"
+            },
+            "height": 598,
+            "width": 1458,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        }
+      ],
+      "__typename": "ImageConnection"
+    },
+    "productionStatus": {
+      "currentProductionStage": {
+        "id": "released",
+        "text": "Released",
+        "__typename": "ProductionStage"
+      },
+      "productionStatusHistory": [
+        {
+          "status": {
+            "id": "post_production",
+            "text": "Post-production",
+            "__typename": "ProductionStatus"
+          },
+          "__typename": "ProductionStatusHistory"
+        },
+        {
+          "status": {
+            "id": "completed",
+            "text": "Completed",
+            "__typename": "ProductionStatus"
+          },
+          "__typename": "ProductionStatusHistory"
+        },
+        {
+          "status": {
+            "id": "released",
+            "text": "Released",
+            "__typename": "ProductionStatus"
+          },
+          "__typename": "ProductionStatusHistory"
+        }
+      ],
+      "restriction": null,
+      "__typename": "ProductionStatusDetails"
+    },
+    "primaryImage": {
+      "id": "rm3169480705",
+      "__typename": "Image",
+      "url": "https://m.media-amazon.com/images/M/MV5BMWU5Yjc0N2MtZjhlYS00MTM3LWI5YWUtZDg5MzcxZjEyZWJmXkEyXkFqcGc@._V1_.jpg",
+      "width": 691,
+      "height": 1024,
+      "caption": {
+        "plainText": "Carolyn Bracken in Oddity (2024)",
+        "__typename": "Markdown"
+      }
+    },
+    "inIframeAddLink": {
+      "url": "https://contribute.imdb.com/image/tt26470109/add?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web",
+      "__typename": "ContributionLink"
+    },
+    "notInIframeAddLink": {
+      "url": "https://contribute.imdb.com/image/tt26470109/add?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt26470109%2F&site=mobile",
+      "__typename": "ContributionLink"
+    },
+    "titleType": {
+      "id": "movie",
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "castV2": [
+      {
+        "grouping": {
+          "groupingId": "amzn1.imdb.concept.name_credit_group.7caf7d16-5db9-4f4f-8864-d4c6e711c686",
+          "text": "Top Cast",
+          "__typename": "CreditGrouping"
+        },
+        "totalCredits": 20,
+        "credits": [
+          {
+            "name": {
+              "id": "nm5427601",
+              "nameText": {
+                "text": "Carolyn Bracken",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BNzc5ZGQzOTEtNDViOS00ODJjLWJiOGItYTE0MTgzZjBiODBlXkEyXkFqcGc@._V1_.jpg",
+                "width": 2294,
+                "height": 2034,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.7f6d81aa-23aa-4503-844d-38201eb08761",
+                      "text": "Actress",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Dani Timmins",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        },
+                        {
+                          "node": {
+                            "name": "Darcy Odello",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm3152605",
+              "nameText": {
+                "text": "Gwilym Lee",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BM2Y0NGI2ODctMTc1Mi00ZTM4LTg1YmUtZmY0OTk1ZDcwMjhiXkEyXkFqcGc@._V1_.jpg",
+                "width": 2316,
+                "height": 2922,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.a9ab2a8b-9153-4edb-a27a-7c2346830d77",
+                      "text": "Actor",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Ted Timmis",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm2425811",
+              "nameText": {
+                "text": "Steve Wall",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BYTRhNzFhMDgtNzNiMy00MTg5LWE2NGUtMjg0NDZkMmUyZWE1XkEyXkFqcGc@._V1_.jpg",
+                "width": 2552,
+                "height": 1061,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.a9ab2a8b-9153-4edb-a27a-7c2346830d77",
+                      "text": "Actor",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Ivan",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm0740327",
+              "nameText": {
+                "text": "Joe Rooney",
+                "__typename": "NameText"
+              },
+              "primaryImage": null,
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.a9ab2a8b-9153-4edb-a27a-7c2346830d77",
+                      "text": "Actor",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Bernie",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm1752532",
+              "nameText": {
+                "text": "Tadhg Murphy",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BOTFmMjFjZmUtYTEyNi00MjZkLThiYTItNDJhMzFmMDA2ZTU4XkEyXkFqcGc@._V1_.jpg",
+                "width": 5004,
+                "height": 7502,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.a9ab2a8b-9153-4edb-a27a-7c2346830d77",
+                      "text": "Actor",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Olin Boole",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm9665108",
+              "nameText": {
+                "text": "Caroline Menton",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BNjk2YmMyMGUtNmU4MC00ODZmLWI1MzMtY2EzNzkwNDlmMjJlXkEyXkFqcGc@._V1_.jpg",
+                "width": 4000,
+                "height": 6000,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.7f6d81aa-23aa-4503-844d-38201eb08761",
+                      "text": "Actress",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Yana",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm7038625",
+              "nameText": {
+                "text": "Johnny French",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BZGJmOTdhOGEtMDgxZC00ZmYwLWFmYzYtNjE5OTVkYjU3MGQ5XkEyXkFqcGc@._V1_.jpg",
+                "width": 3402,
+                "height": 4252,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.a9ab2a8b-9153-4edb-a27a-7c2346830d77",
+                      "text": "Actor",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": [
+                      {
+                        "text": "as Jonathan French",
+                        "__typename": "CreditedAsCreditAttribute"
+                      }
+                    ],
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Declan",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm12802079",
+              "nameText": {
+                "text": "Ivan de Wergifosse",
+                "__typename": "NameText"
+              },
+              "primaryImage": null,
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.a9ab2a8b-9153-4edb-a27a-7c2346830d77",
+                      "text": "Actor",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Wooden Man",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm4998602",
+              "nameText": {
+                "text": "Shane Whisker",
+                "__typename": "NameText"
+              },
+              "primaryImage": null,
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.a9ab2a8b-9153-4edb-a27a-7c2346830d77",
+                      "text": "Actor",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Bellhop",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm10127913",
+              "nameText": {
+                "text": "Joshua Campbell",
+                "__typename": "NameText"
+              },
+              "primaryImage": null,
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.a9ab2a8b-9153-4edb-a27a-7c2346830d77",
+                      "text": "Actor",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Patient",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm15710640",
+              "nameText": {
+                "text": "Austin Lawlor",
+                "__typename": "NameText"
+              },
+              "primaryImage": null,
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.a9ab2a8b-9153-4edb-a27a-7c2346830d77",
+                      "text": "Actor",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Patient",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm15710641",
+              "nameText": {
+                "text": "Peter McCarthy",
+                "__typename": "NameText"
+              },
+              "primaryImage": null,
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.a9ab2a8b-9153-4edb-a27a-7c2346830d77",
+                      "text": "Actor",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Patient",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm15710642",
+              "nameText": {
+                "text": "Fiach McHugh",
+                "__typename": "NameText"
+              },
+              "primaryImage": null,
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.a9ab2a8b-9153-4edb-a27a-7c2346830d77",
+                      "text": "Actor",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Patient",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm15710643",
+              "nameText": {
+                "text": "Patrick Mullins",
+                "__typename": "NameText"
+              },
+              "primaryImage": null,
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.a9ab2a8b-9153-4edb-a27a-7c2346830d77",
+                      "text": "Actor",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Patient",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm15710644",
+              "nameText": {
+                "text": "Jim O'Donnell",
+                "__typename": "NameText"
+              },
+              "primaryImage": null,
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.a9ab2a8b-9153-4edb-a27a-7c2346830d77",
+                      "text": "Actor",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Patient",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm7046475",
+              "nameText": {
+                "text": "Inma Pavon",
+                "__typename": "NameText"
+              },
+              "primaryImage": null,
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.7f6d81aa-23aa-4503-844d-38201eb08761",
+                      "text": "Actress",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Nurse",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm15710646",
+              "nameText": {
+                "text": "Leticia Lopez Ramos",
+                "__typename": "NameText"
+              },
+              "primaryImage": null,
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.7f6d81aa-23aa-4503-844d-38201eb08761",
+                      "text": "Actress",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Nurse",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          },
+          {
+            "name": {
+              "id": "nm15710647",
+              "nameText": {
+                "text": "Chris Mudrack",
+                "__typename": "NameText"
+              },
+              "primaryImage": null,
+              "__typename": "Name"
+            },
+            "creditedRoles": {
+              "edges": [
+                {
+                  "node": {
+                    "category": {
+                      "categoryId": "amzn1.imdb.concept.name_credit_category.a9ab2a8b-9153-4edb-a27a-7c2346830d77",
+                      "text": "Actor",
+                      "__typename": "CreditCategory"
+                    },
+                    "attributes": null,
+                    "characters": {
+                      "edges": [
+                        {
+                          "node": {
+                            "name": "Orderly",
+                            "__typename": "Character"
+                          },
+                          "__typename": "CharacterEdge"
+                        }
+                      ],
+                      "__typename": "CharacterConnection"
+                    },
+                    "__typename": "CreditedRole"
+                  },
+                  "__typename": "CreditedRoleEdge"
+                }
+              ],
+              "__typename": "CreditedRoleConnection"
+            },
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCreditConnection"
+            },
+            "__typename": "CreditV2"
+          }
+        ],
+        "__typename": "PrincipalCreditsForGrouping"
+      }
+    ],
+    "crewV2": [
+      {
+        "totalCredits": 1,
+        "grouping": {
+          "groupingId": "amzn1.imdb.concept.name_credit_category.ace5cb4c-8708-4238-9542-04641e7c8171",
+          "text": "Director",
+          "__typename": "CreditGrouping"
+        },
+        "credits": [
+          {
+            "name": {
+              "id": "nm2163762",
+              "nameText": {
+                "text": "Damian Mc Carthy",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "CreditV2"
+          }
+        ],
+        "__typename": "PrincipalCreditsForGrouping"
+      },
+      {
+        "totalCredits": 1,
+        "grouping": {
+          "groupingId": "amzn1.imdb.concept.name_credit_category.c84ecaff-add5-4f2e-81db-102a41881fe3",
+          "text": "Writer",
+          "__typename": "CreditGrouping"
+        },
+        "credits": [
+          {
+            "name": {
+              "id": "nm2163762",
+              "nameText": {
+                "text": "Damian Mc Carthy",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "CreditV2"
+          }
+        ],
+        "__typename": "PrincipalCreditsForGrouping"
+      }
+    ],
+    "titleText": {
+      "text": "Oddity",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "Oddity",
+      "__typename": "TitleText"
+    },
+    "canRate": {
+      "isRatable": true,
+      "__typename": "CanRate"
+    },
+    "reviews": {
+      "total": 320,
+      "__typename": "ReviewsConnection"
+    },
+    "aggregateRatingsBreakdown": {
+      "histogram": {
+        "histogramValues": [
+          {
+            "rating": 1,
+            "voteCount": 713,
+            "__typename": "HistogramValues"
+          },
+          {
+            "rating": 2,
+            "voteCount": 523,
+            "__typename": "HistogramValues"
+          },
+          {
+            "rating": 3,
+            "voteCount": 962,
+            "__typename": "HistogramValues"
+          },
+          {
+            "rating": 4,
+            "voteCount": 1894,
+            "__typename": "HistogramValues"
+          },
+          {
+            "rating": 5,
+            "voteCount": 4844,
+            "__typename": "HistogramValues"
+          },
+          {
+            "rating": 6,
+            "voteCount": 11954,
+            "__typename": "HistogramValues"
+          },
+          {
+            "rating": 7,
+            "voteCount": 17130,
+            "__typename": "HistogramValues"
+          },
+          {
+            "rating": 8,
+            "voteCount": 10001,
+            "__typename": "HistogramValues"
+          },
+          {
+            "rating": 9,
+            "voteCount": 2881,
+            "__typename": "HistogramValues"
+          },
+          {
+            "rating": 10,
+            "voteCount": 2370,
+            "__typename": "HistogramValues"
+          }
+        ],
+        "__typename": "Histogram"
+      },
+      "__typename": "AggregateRatingsBreakdown"
+    },
+    "featuredReviews": {
+      "edges": [
+        {
+          "node": {
+            "id": "rw9912191",
+            "author": {
+              "userId": "ur131783850",
+              "username": {
+                "text": "kevin_robbins",
+                "__typename": "UserProfileUsername"
+              },
+              "__typename": "UserProfile"
+            },
+            "summary": {
+              "originalText": "Oddity is a unique addition to the horror genre and a must-see for enthusiasts",
+              "__typename": "ReviewSummary"
+            },
+            "text": {
+              "originalText": {
+                "plaidHtml": "I recently watched the Irish film 🇮🇪 Oddity (2024) in theaters. The storyline follows a doctor who loses his wife in a strange home invasion. Five years later, the doctor has a new girlfriend who stays in the same house. She starts to get weirded out by strange events around the house. When she finally decides to move out, she discovers it won&#39;t be as easy as she hoped...<br/><br/>This film is written and directed by Damian Mc Carthy (Caveat) and stars Gwilym Lee (Bohemian Rhapsody), Carolyn Bracken (The Quiet Girl), Caroline Menton, Tadhg Murphy (Boy Eats Girl), and Steve Wall (Dune: Part Two).<br/><br/>This is a unique addition to the horror genre, with elements that remind me of both Pumpkinhead and The Conjuring. The atmosphere is perfectly created, and I loved the old cobblestone house, camera angles, and use of lighting. The props are outstanding, and the corpses and blood splatter are solid. Unfortunately, the movie loses momentum with its kill scenes, which weren&#39;t great. The acting is uneven, with some scenes overacted, but overall, the performances are good. I really enjoyed the full-circle elements in the conclusion, though I wish they had taken everything one step further.<br/><br/>In conclusion, Oddity is a unique addition to the horror genre and a must-see for enthusiasts. I would score this a 7/10.",
+                "__typename": "Markdown"
+              },
+              "__typename": "ReviewText"
+            },
+            "title": {
+              "id": "tt26470109",
+              "__typename": "Title"
+            },
+            "authorRating": 7,
+            "__typename": "Review"
+          },
+          "__typename": "ReviewEdge"
+        },
+        {
+          "node": {
+            "id": "rw9980882",
+            "author": {
+              "userId": "ur101142142",
+              "username": {
+                "text": "jochang-30856",
+                "__typename": "UserProfileUsername"
+              },
+              "__typename": "UserProfile"
+            },
+            "summary": {
+              "originalText": "Decent",
+              "__typename": "ReviewSummary"
+            },
+            "text": {
+              "originalText": {
+                "plaidHtml": "This film does a lot of things right. While there&#39;s a jump scare or two, the fear mostly consists of atmosphere and situations that would easily scare anyone in a similar setting. That&#39;s the right way to do horror, with the idea of something inspiring dread as opposed to cheap reaction scares that are only effective due to loud noises. It even starts out with an impossible decision that effortlessly hooks you in. Additionally, there&#39;s always something to focus on that consistently engages the audience. Shown, not immediately explained. Seen and not described. This results in mystery and guesswork that will keep you interested throughout. All in all an entertaining film, and the acting skill displayed by the entire cast is competent and fitting.<br/><br/>I only have two complaints. The first is that the motivation of some characters are basically nonsensical. It could be argued these people are essentially psychopaths, but even so their choices are far too extreme to be believed. Absolutely ridiculous. The second is the ending scene. I can&#39;t elaborate without spoilers, but while the concept is very cool, the execution was pretty weak. None of this ruined my overall enjoyment of the film, but there is no lasting impression because of it, which is a shame.",
+                "__typename": "Markdown"
+              },
+              "__typename": "ReviewText"
+            },
+            "title": {
+              "id": "tt26470109",
+              "__typename": "Title"
+            },
+            "authorRating": 6,
+            "__typename": "Review"
+          },
+          "__typename": "ReviewEdge"
+        },
+        {
+          "node": {
+            "id": "rw9968030",
+            "author": {
+              "userId": "ur15561119",
+              "username": {
+                "text": "kelpe1925",
+                "__typename": "UserProfileUsername"
+              },
+              "__typename": "UserProfile"
+            },
+            "summary": {
+              "originalText": "Honestly, pretty good.",
+              "__typename": "ReviewSummary"
+            },
+            "text": {
+              "originalText": {
+                "plaidHtml": "Over the years, I&#39;ve almost given up on horror films. Most are essentially comedies to me, without meaning to be. It&#39;s rare that I even get an uneasy feeling and watching any movie, but this one succeeded in doing that.<br/><br/>The acting was good and while it was essentially filmed low budget, it didn&#39;t feel that way. Carolyn Bracken did an amazing job within her roles and I would like to see more from her in the future.<br/><br/>It was a relatively simple film and of course had plot holes and points that made no sense... But even after that, it was definitely worth the watch. I do wish they would have removed the last scene from the movie though. It was not needed and only detracted from the positives.",
+                "__typename": "Markdown"
+              },
+              "__typename": "ReviewText"
+            },
+            "title": {
+              "id": "tt26470109",
+              "__typename": "Title"
+            },
+            "authorRating": 7,
+            "__typename": "Review"
+          },
+          "__typename": "ReviewEdge"
+        },
+        {
+          "node": {
+            "id": "rw10030440",
+            "author": {
+              "userId": "ur139297397",
+              "username": {
+                "text": "cineguac-89584",
+                "__typename": "UserProfileUsername"
+              },
+              "__typename": "UserProfile"
+            },
+            "summary": {
+              "originalText": "One of the most original indie films of the year",
+              "__typename": "ReviewSummary"
+            },
+            "text": {
+              "originalText": {
+                "plaidHtml": "For anyone that watches a lot of horror, you&#39;ll know how difficult it is to scare audiences today. This film got me. It&#39;s definitely without a doubt one of the scariest and most original indie horror films to come out in 2024. Oddity managed to tell what feels like a big story in really just a few locations. I can&#39;t imagine the budget was too big, and sometimes it felt low budget, but in my opinion, this only made it scarier. For some reason I always feel like big budget horror movies don&#39;t serve the scares as successfully because there&#39;s something comforting about the studio polish. This film had an indie grit and the jump scares were SO EFFECTIVE. I don&#39;t jump easily but this got me several times. And the story is also captivating. Highly recommend, especially for horror lovers!",
+                "__typename": "Markdown"
+              },
+              "__typename": "ReviewText"
+            },
+            "title": {
+              "id": "tt26470109",
+              "__typename": "Title"
+            },
+            "authorRating": 8,
+            "__typename": "Review"
+          },
+          "__typename": "ReviewEdge"
+        },
+        {
+          "node": {
+            "id": "rw10008822",
+            "author": {
+              "userId": "ur15311310",
+              "username": {
+                "text": "Sleepin_Dragon",
+                "__typename": "UserProfileUsername"
+              },
+              "__typename": "UserProfile"
+            },
+            "summary": {
+              "originalText": "An unsettling horror.",
+              "__typename": "ReviewSummary"
+            },
+            "text": {
+              "originalText": {
+                "plaidHtml": "Ted and Dani Timmins have recently purchased a new house. One night, whilst Ted is at work, Dani receives a visitor at the front door, Olin Boole, who claims someone&#39;s in her house, that night Dani is killed. Darcy, Dani&#39;s twin aims to learn the truth.<br/><br/>If ever a film was given the perfect title, it&#39;s this one, it verges on art house, it&#39;s very much an avant garde, slightly quirky horror, but trust me it works.<br/><br/>I wasn&#39;t sure which way it was going to go, but it opens up well, and offers a few surprises along the way, delivering some unsettling moments, that scene with the wooden man is especially good.<br/><br/>If I had one little criticism, I think they underdid the lighting a little, a few scenes are somewhat challenging to make out.<br/><br/>It does feel a little rough around the edges at times, but I think that is part of the charm, maybe some of the acting isn&#39;t great at all times, but again that fits the film.<br/><br/>Overall, I&#39;d definitely recommend.<br/><br/>7/10.",
+                "__typename": "Markdown"
+              },
+              "__typename": "ReviewText"
+            },
+            "title": {
+              "id": "tt26470109",
+              "__typename": "Title"
+            },
+            "authorRating": 7,
+            "__typename": "Review"
+          },
+          "__typename": "ReviewEdge"
+        }
+      ],
+      "__typename": "ReviewsConnection"
+    },
+    "reviewSummary": null,
+    "isAdult": false,
+    "moreLikeThisTitles": {
+      "edges": [
+        {
+          "node": {
+            "id": "tt16300962",
+            "titleText": {
+              "text": "When Evil Lurks",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Cuando acecha la maldad",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm239094273",
+              "width": 3564,
+              "height": 5280,
+              "url": "https://m.media-amazon.com/images/M/MV5BY2UxZWExMTYtMzIzYy00NGUxLTk4Y2QtNTUxNWEyNWYxMWYzXkEyXkFqcGc@._V1_.jpg",
+              "caption": {
+                "plainText": "When Evil Lurks (2023)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.9,
+              "voteCount": 57633,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 5940,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "Not Rated",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Horror",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt22375054",
+            "titleText": {
+              "text": "Strange Darling",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Strange Darling",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm267154433",
+              "width": 1080,
+              "height": 1600,
+              "url": "https://m.media-amazon.com/images/M/MV5BNDE2OTQ0NjEtNmEwMC00NmRjLThiOGMtN2M1N2Q2YWY0NGY4XkEyXkFqcGc@._V1_.jpg",
+              "caption": {
+                "plainText": "Kyle Gallner and Willa Fitzgerald in Strange Darling (2023)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7,
+              "voteCount": 64053,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 5820,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "R",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Horror",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Thriller",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt14966898",
+            "titleText": {
+              "text": "Late Night with the Devil",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Late Night with the Devil",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm3617028865",
+              "width": 8100,
+              "height": 12000,
+              "url": "https://m.media-amazon.com/images/M/MV5BYTRiNWZlNGMtOTUwZi00ZjE4LWE1ZjEtNWE4MGQ2ZGU5NDliXkEyXkFqcGc@._V1_.jpg",
+              "caption": {
+                "plainText": "Late Night with the Devil (2023)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7,
+              "voteCount": 139448,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 5580,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "R",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Horror",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt7917178",
+            "titleText": {
+              "text": "Caveat",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Caveat",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm1536143361",
+              "width": 7200,
+              "height": 10800,
+              "url": "https://m.media-amazon.com/images/M/MV5BNDRjNzA2YjktNTk1OC00NTM1LTg1ZDgtYjRhM2Y4MGI5ODhkXkEyXkFqcGc@._V1_.jpg",
+              "caption": {
+                "plainText": "Caveat (2020)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2020,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 5.9,
+              "voteCount": 12096,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 5280,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "Not Rated",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Horror",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Mystery",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Thriller",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt32246771",
+            "titleText": {
+              "text": "Bring Her Back",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Bring Her Back",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm2097448450",
+              "width": 5400,
+              "height": 8000,
+              "url": "https://m.media-amazon.com/images/M/MV5BZTlhYTk1ZTEtOWY3NC00NWQ5LTlkOTctNjQ3ZDYyZGE5ZWNlXkEyXkFqcGc@._V1_.jpg",
+              "caption": {
+                "plainText": "Jonah Wren Phillips in Bring Her Back (2025)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2025,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.1,
+              "voteCount": 93621,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 6240,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "R",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Horror",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Mystery",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt23468450",
+            "titleText": {
+              "text": "Longlegs",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Longlegs",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm800947457",
+              "width": 3600,
+              "height": 5334,
+              "url": "https://m.media-amazon.com/images/M/MV5BMmJkNGNiNjgtMzFlYy00ZDI5LWI2YzktZGVjYjI5MjQyMGU3XkEyXkFqcGc@._V1_.jpg",
+              "caption": {
+                "plainText": "Maika Monroe in Longlegs (2024)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2024,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.6,
+              "voteCount": 210810,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 6060,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "R",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Crime",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Horror",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Mystery",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt10638522",
+            "titleText": {
+              "text": "Talk to Me",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Talk to Me",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm628500737",
+              "width": 2700,
+              "height": 4000,
+              "url": "https://m.media-amazon.com/images/M/MV5BY2I2NzJmY2YtYTM3Ni00ZGJhLThkZTItODFhMzhlZjZkMDQ5XkEyXkFqcGc@._V1_.jpg",
+              "caption": {
+                "plainText": "Talk to Me (2022)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.1,
+              "voteCount": 204115,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 5700,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "R",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Horror",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Thriller",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt3289956",
+            "titleText": {
+              "text": "The Autopsy of Jane Doe",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "The Autopsy of Jane Doe",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm2330868480",
+              "width": 1794,
+              "height": 2658,
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2MTEzMzkzM15BMl5BanBnXkFtZTgwMjM2MTM5MDI@._V1_.jpg",
+              "caption": {
+                "plainText": "Olwen Catherine Kelly in The Autopsy of Jane Doe (2016)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2016,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.8,
+              "voteCount": 159580,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 5160,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "R",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Horror",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Mystery",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Thriller",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt28249919",
+            "titleText": {
+              "text": "Presence",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Presence",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm2428527617",
+              "width": 877,
+              "height": 1302,
+              "url": "https://m.media-amazon.com/images/M/MV5BZWRmNzM1YjktM2YyMi00M2YwLWE2YjMtNjgwNTQ3MGU3MzczXkEyXkFqcGc@._V1_.jpg",
+              "caption": {
+                "plainText": "Presence (2024)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2024,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.1,
+              "voteCount": 38873,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 5040,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "R",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Drama",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Horror",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Thriller",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt29268110",
+            "titleText": {
+              "text": "Smile 2",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Smile 2",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm1647014145",
+              "width": 2025,
+              "height": 3000,
+              "url": "https://m.media-amazon.com/images/M/MV5BYTg5OTMyMGMtYzMwNC00NDMyLWE0OGUtMTQ1ODcwM2FjOTM4XkEyXkFqcGc@._V1_.jpg",
+              "caption": {
+                "plainText": "Naomi Scott in Smile 2 (2024)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2024,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.7,
+              "voteCount": 129676,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 7620,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "R",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Horror",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Mystery",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Thriller",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt28015403",
+            "titleText": {
+              "text": "Heretic",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Heretic",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm2075681281",
+              "width": 1944,
+              "height": 2880,
+              "url": "https://m.media-amazon.com/images/M/MV5BMzFiMWM4YjAtY2Y3Yi00MDIzLTk0N2MtYTAwNGM3ZmMwODhlXkEyXkFqcGc@._V1_.jpg",
+              "caption": {
+                "plainText": "Hugh Grant in Heretic (2024)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2024,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7,
+              "voteCount": 203228,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 6660,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "R",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Horror",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Thriller",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt5672290",
+            "titleText": {
+              "text": "The First Omen",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "The First Omen",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm955597825",
+              "width": 1056,
+              "height": 1574,
+              "url": "https://m.media-amazon.com/images/M/MV5BNWU0ZjM1YjYtMGZkZi00NTBiLTgxMGItMzVhZDgyZTkyY2ZhXkEyXkFqcGc@._V1_.jpg",
+              "caption": {
+                "plainText": "The First Omen (2024)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2024,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.5,
+              "voteCount": 69280,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 7140,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "R",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Horror",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        }
+      ],
+      "__typename": "MoreLikeThisConnection"
+    },
+    "relatedInterests": {
+      "edges": [
+        {
+          "node": {
+            "id": "in0000110",
+            "primaryText": {
+              "text": "Folk Horror",
+              "__typename": "InterestText"
+            },
+            "primaryImage": {
+              "caption": {
+                "plainText": "Florence Pugh in Midsommar (2019)",
+                "__typename": "Markdown"
+              },
+              "width": 1920,
+              "height": 959,
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI2MGE4YWQtNjQ4YS00MjU1LTgzNGUtMWZmZTMwNzM4OGRjXkEyXkFqcGc@._V1_.jpg",
+              "id": "rm1239737089",
+              "__typename": "Image"
+            },
+            "visibilityLevel": "PUBLIC",
+            "__typename": "Interest"
+          },
+          "__typename": "InterestEdge"
+        },
+        {
+          "node": {
+            "id": "in0000117",
+            "primaryText": {
+              "text": "Supernatural Horror",
+              "__typename": "InterestText"
+            },
+            "primaryImage": {
+              "caption": {
+                "plainText": "Daveigh Chase in The Ring (2002)",
+                "__typename": "Markdown"
+              },
+              "width": 1920,
+              "height": 1080,
+              "url": "https://m.media-amazon.com/images/M/MV5BNWEwY2NjZjItMzA5Zi00ZDU0LTljOWItOGZiODJhMGE5MTIyXkEyXkFqcGc@._V1_.jpg",
+              "id": "rm104285952",
+              "__typename": "Image"
+            },
+            "visibilityLevel": "PUBLIC",
+            "__typename": "Interest"
+          },
+          "__typename": "InterestEdge"
+        },
+        {
+          "node": {
+            "id": "in0000112",
+            "primaryText": {
+              "text": "Horror",
+              "__typename": "InterestText"
+            },
+            "primaryImage": {
+              "caption": {
+                "plainText": "Mia Farrow in Rosemary's Baby (1968)",
+                "__typename": "Markdown"
+              },
+              "width": 1280,
+              "height": 688,
+              "url": "https://m.media-amazon.com/images/M/MV5BNThjMTAxN2QtOTkyMS00Y2EwLTgyMDctOWY2NTY0MzYzZjQ0XkEyXkFqcGc@._V1_.jpg",
+              "id": "rm934319617",
+              "__typename": "Image"
+            },
+            "visibilityLevel": "PUBLIC",
+            "__typename": "Interest"
+          },
+          "__typename": "InterestEdge"
+        },
+        {
+          "node": {
+            "id": "in0000186",
+            "primaryText": {
+              "text": "Thriller",
+              "__typename": "InterestText"
+            },
+            "primaryImage": {
+              "caption": {
+                "plainText": "Cho Yeo-jeong in Parasite (2019)",
+                "__typename": "Markdown"
+              },
+              "width": 1920,
+              "height": 804,
+              "url": "https://m.media-amazon.com/images/M/MV5BMWM3ZjRhMDQtZDUzYi00NWY0LThhMDQtZTM2MjZmNjRlMTRmXkEyXkFqcGc@._V1_.jpg",
+              "id": "rm564176897",
+              "__typename": "Image"
+            },
+            "visibilityLevel": "PUBLIC",
+            "__typename": "Interest"
+          },
+          "__typename": "InterestEdge"
+        }
+      ],
+      "__typename": "InterestConnection"
+    },
+    "triviaTotal": {
+      "total": 8,
+      "__typename": "TriviaConnection"
+    },
+    "trivia": {
+      "edges": [
+        {
+          "node": {
+            "text": {
+              "plaidHtml": "There&#39;s a short film titled <a class=\"ipc-md-link ipc-md-link--entity\" href=\"/title/tt3650494/?ref_=dyk_trv\">How Olin Lost His Eye (2013)</a>, which features Olin as a central character. Watching this film provides insight into his character arc, which is resolved here. It&#39;s part of Damian&#39;s collection of short films, all set within the same universe.",
+              "__typename": "Markdown"
+            },
+            "trademark": null,
+            "relatedNames": null,
+            "__typename": "TitleTrivia"
+          },
+          "__typename": "TriviaEdge"
+        }
+      ],
+      "__typename": "TriviaConnection"
+    },
+    "goofsTotal": {
+      "total": 0,
+      "__typename": "GoofConnection"
+    },
+    "goofs": {
+      "edges": [],
+      "__typename": "GoofConnection"
+    },
+    "quotesTotal": {
+      "total": 4,
+      "__typename": "TitleQuoteConnection"
+    },
+    "quotes": {
+      "edges": [
+        {
+          "node": {
+            "lines": [
+              {
+                "characters": [
+                  {
+                    "character": "Yana",
+                    "name": {
+                      "id": "nm9665108",
+                      "__typename": "Name"
+                    },
+                    "__typename": "TitleQuoteCharacter"
+                  }
+                ],
+                "text": "Do I look stupid?",
+                "stageDirection": null,
+                "__typename": "TitleQuoteLine"
+              },
+              {
+                "characters": [
+                  {
+                    "character": "Darci Odello",
+                    "name": {
+                      "id": "nm5427601",
+                      "__typename": "Name"
+                    },
+                    "__typename": "TitleQuoteCharacter"
+                  }
+                ],
+                "text": "I have no idea what you look like. You sound stupid.",
+                "stageDirection": "who is blind",
+                "__typename": "TitleQuoteLine"
+              },
+              {
+                "characters": [
+                  {
+                    "character": "Yana",
+                    "name": {
+                      "id": "nm9665108",
+                      "__typename": "Name"
+                    },
+                    "__typename": "TitleQuoteCharacter"
+                  }
+                ],
+                "text": "Excuse me?",
+                "stageDirection": null,
+                "__typename": "TitleQuoteLine"
+              },
+              {
+                "characters": [
+                  {
+                    "character": "Darci Odello",
+                    "name": {
+                      "id": "nm5427601",
+                      "__typename": "Name"
+                    },
+                    "__typename": "TitleQuoteCharacter"
+                  }
+                ],
+                "text": "Do I look stupid?",
+                "stageDirection": null,
+                "__typename": "TitleQuoteLine"
+              },
+              {
+                "characters": [
+                  {
+                    "character": "Yana",
+                    "name": {
+                      "id": "nm9665108",
+                      "__typename": "Name"
+                    },
+                    "__typename": "TitleQuoteCharacter"
+                  }
+                ],
+                "text": "No.",
+                "stageDirection": null,
+                "__typename": "TitleQuoteLine"
+              },
+              {
+                "characters": [
+                  {
+                    "character": "Darci Odello",
+                    "name": {
+                      "id": "nm5427601",
+                      "__typename": "Name"
+                    },
+                    "__typename": "TitleQuoteCharacter"
+                  }
+                ],
+                "text": "My sister and I were identical, so that must mean that she didn't look stupid either.",
+                "stageDirection": null,
+                "__typename": "TitleQuoteLine"
+              }
+            ],
+            "__typename": "TitleQuote"
+          },
+          "__typename": "TitleQuoteEdge"
+        }
+      ],
+      "__typename": "TitleQuoteConnection"
+    },
+    "crazyCredits": {
+      "edges": [],
+      "__typename": "CrazyCreditConnection"
+    },
+    "alternateVersions": {
+      "total": 0,
+      "edges": [],
+      "__typename": "AlternateVersionConnection"
+    },
+    "connections": {
+      "edges": [
+        {
+          "node": {
+            "associatedTitle": {
+              "id": "tt34509486",
+              "releaseYear": {
+                "year": 2024,
+                "__typename": "YearRange"
+              },
+              "titleText": {
+                "text": "Top 10 Horror Movies (2024) Part 2",
+                "__typename": "TitleText"
+              },
+              "originalTitleText": {
+                "text": "Top 10 Horror Movies (2024) Part 2",
+                "__typename": "TitleText"
+              },
+              "series": {
+                "series": {
+                  "titleText": {
+                    "text": "Half in the Bag",
+                    "__typename": "TitleText"
+                  },
+                  "originalTitleText": {
+                    "text": "Half in the Bag",
+                    "__typename": "TitleText"
+                  },
+                  "__typename": "Title"
+                },
+                "__typename": "Series"
+              },
+              "__typename": "Title"
+            },
+            "category": {
+              "text": "Featured in",
+              "__typename": "TitleConnectionCategory"
+            },
+            "__typename": "TitleConnection"
+          },
+          "__typename": "TitleConnectionEdge"
+        }
+      ],
+      "__typename": "TitleConnectionConnection"
+    },
+    "soundtrack": {
+      "edges": [
+        {
+          "node": {
+            "text": "There's a River",
+            "comments": [
+              {
+                "plaidHtml": "Written by <a class=\"ipc-md-link ipc-md-link--entity\" href=\"/name/nm16518736/?ref_=dyk_snd\">Harry Bird</a>",
+                "__typename": "Markdown"
+              },
+              {
+                "plaidHtml": "Performed by <a class=\"ipc-md-link ipc-md-link--entity\" href=\"/name/nm16518736/?ref_=dyk_snd\">Harry Bird</a> and the Rubber Wellies",
+                "__typename": "Markdown"
+              },
+              {
+                "plaidHtml": "Courtesy of Hot Drop Records",
+                "__typename": "Markdown"
+              }
+            ],
+            "__typename": "Track"
+          },
+          "__typename": "SoundtrackEdge"
+        }
+      ],
+      "__typename": "SoundtrackConnection"
+    },
+    "topQuestions": {
+      "total": 0,
+      "edges": [],
+      "__typename": "AlexaQuestionConnection"
+    },
+    "faqs": {
+      "total": 0,
+      "edges": [],
+      "__typename": "FaqConnection"
+    },
+    "releaseDate": {
+      "day": 19,
+      "month": 7,
+      "year": 2024,
+      "country": {
+        "id": "US",
+        "text": "United States",
+        "__typename": "LocalizedDisplayableCountry"
+      },
+      "__typename": "ReleaseDate"
+    },
+    "countriesDetails": {
+      "countries": [
+        {
+          "id": "IE",
+          "text": "Ireland",
+          "__typename": "CountryOfOrigin"
+        }
+      ],
+      "__typename": "CountriesOfOrigin"
+    },
+    "detailsExternalLinks": {
+      "edges": [],
+      "total": 0,
+      "__typename": "ExternalLinkConnection"
+    },
+    "spokenLanguages": {
+      "spokenLanguages": [
+        {
+          "id": "en",
+          "text": "English",
+          "__typename": "SpokenLanguage"
+        }
+      ],
+      "__typename": "SpokenLanguages"
+    },
+    "akas": {
+      "edges": [
+        {
+          "node": {
+            "text": "Quỷ Án",
+            "__typename": "Aka"
+          },
+          "__typename": "AkaEdge"
+        }
+      ],
+      "__typename": "AkaConnection"
+    },
+    "filmingLocations": {
+      "edges": [
+        {
+          "node": {
+            "text": "Bantry House, Bantry, County Cork, Ireland",
+            "location": "Bantry House, Bantry, County Cork, Ireland",
+            "attributes": [
+              {
+                "text": "manor house location",
+                "__typename": "DisplayableAttribute"
+              }
+            ],
+            "__typename": "FilmingLocation"
+          },
+          "__typename": "FilmingLocationEdge"
+        }
+      ],
+      "total": 2,
+      "__typename": "FilmingLocationConnection"
+    },
+    "production": {
+      "edges": [
+        {
+          "node": {
+            "company": {
+              "id": "co0991236",
+              "companyText": {
+                "text": "Keeper Pictures",
+                "__typename": "CompanyText"
+              },
+              "__typename": "Company"
+            },
+            "__typename": "CompanyCredit"
+          },
+          "__typename": "CompanyCreditEdge"
+        }
+      ],
+      "__typename": "CompanyCreditConnection"
+    },
+    "companies": {
+      "total": 18,
+      "__typename": "CompanyCreditConnection"
+    },
+    "productionBudget": null,
+    "lifetimeGross": {
+      "total": {
+        "amount": 1200477,
+        "currency": "USD",
+        "__typename": "Money"
+      },
+      "__typename": "BoxOfficeGross"
+    },
+    "openingWeekendGross": {
+      "gross": {
+        "total": {
+          "amount": 562333,
+          "currency": "USD",
+          "__typename": "Money"
+        },
+        "__typename": "BoxOfficeGross"
+      },
+      "weekendEndDate": "2024-07-21",
+      "__typename": "OpeningWeekendGross"
+    },
+    "worldwideGross": {
+      "total": {
+        "amount": 1850519,
+        "currency": "USD",
+        "__typename": "Money"
+      },
+      "__typename": "BoxOfficeGross"
+    },
+    "technicalSpecifications": {
+      "soundMixes": {
+        "items": [],
+        "__typename": "SoundMixes"
+      },
+      "aspectRatios": {
+        "items": [
+          {
+            "aspectRatio": "2.39:1",
+            "attributes": [],
+            "__typename": "AspectRatio"
+          }
+        ],
+        "__typename": "AspectRatios"
+      },
+      "colorations": {
+        "items": [
+          {
+            "conceptId": "color",
+            "text": "Color",
+            "attributes": [],
+            "__typename": "Coloration"
+          }
+        ],
+        "__typename": "Colorations"
+      },
+      "__typename": "TechnicalSpecifications"
+    },
+    "runtime": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "1h 38m",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleRuntimeProperty"
+      },
+      "seconds": 5880,
+      "__typename": "Runtime"
+    },
+    "series": null,
+    "__typename": "Title"
+  }
+}

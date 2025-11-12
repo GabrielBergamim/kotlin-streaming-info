@@ -6,6 +6,6 @@ import java.util.UUID
 
 interface MovieRepository {
 
-    fun findMovieById(id: UUID): Optional<Movie>
+    fun findMovieByIdOrNull(id: UUID): Movie?
     fun save(movie: Movie)
 }

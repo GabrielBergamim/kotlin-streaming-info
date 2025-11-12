@@ -7,12 +7,15 @@ import gab.streaming.movie_info.infra.dto.MovieDescriptionDto
 import io.github.resilience4j.bulkhead.annotation.Bulkhead
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker
 import io.github.resilience4j.retry.annotation.Retry
+import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Component
 import java.time.LocalDate
 import java.time.Duration
 
 @Component
-class ImdbAdapter(val client: ImdbFeignClient) : SearchMovieInfo {
+class ImdbAdapter(private val client: ImdbFeignClient) : SearchMovieInfo {
+
+    private val logger = LoggerFactory.getLogger(ImdbAdapter::class.java)
 
     @CircuitBreaker(name = "imdbFeignClient", fallbackMethod = "onFail")
     @Retry(name = "imdbFeignClient")
@@ -48,8 +51,7 @@ class ImdbAdapter(val client: ImdbFeignClient) : SearchMovieInfo {
     }
 
     fun onFail(title: String, ex: Exception): MovieInfo? {
-        println("fail to search: $title")
-        ex.printStackTrace()
+        logger.error("fail to search: $title", ex)
         throw ex;
     }
 }
